@@ -7,6 +7,7 @@ Francia azul
 Bélgica amarillo
 Australia verde
 Alemania azul 
+Panama
 =======
 Mexico  CDMX
 Italia  
@@ -16,5 +17,7 @@ Francia PARIS
 Bélgica 
 Sudáfrica 
 Australia 
+Panama
 >>>>>>> capitales
-el pais mas popular es mexico
+el pais mas popular es Mexico
+
