@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mexico blanco
 Italia verde
 Alemania negro
@@ -6,3 +7,14 @@ Francia azul
 Bélgica amarillo
 Australia verde
 Alemania azul 
+=======
+Mexico  CDMX
+Italia  
+Alemania BERLIN 
+Rusia MOSCU 
+Francia PARIS 
+Bélgica 
+Sudáfrica 
+Australia 
+>>>>>>> capitales
+el pais mas popular es mexico
