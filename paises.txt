@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Mexico blanco
 Italia verde
 Alemania negro
@@ -9,17 +8,6 @@ Australia verde
 Alemania azul 
 Panama
 Canada
-=======
-Mexico  CDMX
-Italia  
-Alemania BERLIN 
-Rusia MOSCU 
-Francia PARIS 
-Bélgica 
-Sudáfrica 
-Australia 
-Panama
-Canada
->>>>>>> capitales
+
 el pais mas popular es Mexico
 
